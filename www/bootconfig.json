@@ -1,6 +1,6 @@
 {
-  "remoteAccessConsumerKey": "3MVG9Iu66FKeHhINkB1l7xt7kR8czFcCTUhgoA8Ol2Ltf1eYHOU4SqQRSEitYFDUpqRWcoQ2.dBv_a1Dyu5xa",
-  "oauthRedirectURI": "testsfdc:///mobilesdk/detect/oauth/done",
+  "remoteAccessConsumerKey": "3MVG9xOCXq4ID1uHvF68MI9nw0Xk3FLi61Bn.NCpq5dK3D8MtaeQLbqn.IMT.if3sgflmhXH9YtwaXQkK11BS",
+  "oauthRedirectURI": "mysampleapp://auth/success",
   "oauthScopes": [
     "web",
     "api"
